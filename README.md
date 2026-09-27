@@ -45,7 +45,7 @@ O Cloud Firestore é utilizado para armazenar os projetos e as mensagens enviada
 Clone o repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/gutembergpaiva/devportfolio.git
 ```
 
 Entre na pasta do projeto:
